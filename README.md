@@ -4,9 +4,11 @@
 
 * Made by [So Miyagawa](https://uni-goettingen.academia.edu/SoMiyagawa)
 * Tools made in ruby etc. for So's work on Coptic Digital Humanities
-* Feel free to use, but almost no documentation. It's really useful to convert texts made in old ASCII Coptic fonts into Coptic Unicode.
-* Also, I did a contribution to recode_coptic.pl (https://github.com/somiyagawa/converters_perl/blob/master/recode_coptic.pl)
-
+* Feel free to use, but almost no documentation. 
+* Also, I did a contribution to recode_coptic.pl 
+ * (https://github.com/somiyagawa/converters_perl/blob/master/recode_coptic.pl)
+ * It's really useful to convert texts made in old ASCII Coptic fonts into Coptic Unicode.
+ 
 # 1. HieroJIS
 
 * Youtube videos: 
