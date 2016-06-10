@@ -1,4 +1,4 @@
-# toolkitForCoptic
+# Toolkit for Coptic and Ancient Egyptian
 
 * Made by So Miyagawa
 * Tools made in ruby etc. for So's work on Coptic Digital Humanities
