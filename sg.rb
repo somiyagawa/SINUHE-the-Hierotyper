@@ -1,5 +1,6 @@
 # coding: utf-8
 # Sahidic_unicode_converter Created by So Miyagawa, 2015 revised 2015-6-13
+# This is for Sahidic-Greek parallel texts of Coptic NT of St. Shenouda Archimandrite Coptic Society
 puts "What is the name of the file you want to copticize?"
 print "Please type the name of txt file including .txt: "
 x=gets.chomp!
