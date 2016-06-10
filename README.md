@@ -12,10 +12,11 @@
 ## 1. HieroJIS
 
 * Youtube videos: 
-  * [how to install HieroJIS]
+  * [how to install HieroJIS](https://www.youtube.com/watch?v=EAg2l6Wx7oA)
   * [some examples of Word-to-Word Conversion]
   * [some examples of English Word-to-Hieroglyphs Conversion]
+  * [examples on Windows](https://www.youtube.com/watch?v=FOCwfL2f-TY)
 * description slides
     * GitHub: (https://github.com/somiyagawa/toolkitForCopticAndAncientEgyptian/blob/master/An_intuitive_unicode_input_method_for_an%20(1).compressed.pdf)
-* It is better than Keyman on Windows, KMFL on Linux or Ukulele on Mac.
+* It is better than [Keyman](http://keyman.com/) on Windows, [KMFL](http://linux.lsdev.sil.org/wiki/index.php/Installing_KMFL_on_Ubuntu) on Linux or [Ukulele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) on Mac.
 * Using Google Japanese Input currently, in the future it will use Mozc.
