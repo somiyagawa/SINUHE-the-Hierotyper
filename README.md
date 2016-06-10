@@ -12,7 +12,7 @@
   * [how to install HieroJIS]
   * [some examples of Word-to-Word Conversion]
   * [some examples of English Word-to-Hieroglyphs Conversion]
-  * description slides
+* description slides
     * GitHub: (https://github.com/somiyagawa/toolkitForCopticAndAncientEgyptian/blob/master/An_intuitive_unicode_input_method_for_an%20(1).compressed.pdf)
 * It is better than Keyman on Windows, KMFL on Linux or Ukulele on Mac.
 * Using Google Japanese Input currently, in the future it will use Mozc.
