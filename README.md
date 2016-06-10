@@ -1,4 +1,4 @@
-## :star2: :dizzy: :bowtie: Toolkit for Coptic and Ancient Egyptian :bowtie: :dizzy: :star2:
+## :star2: :dizzy: Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
 
 # preamble
 
@@ -9,3 +9,5 @@
 # HieroJIS
 
 * [Youtube video](): how to install HieroJIS
+* It is better than Keyman on Windows, KMFL on Linux or Ukulele on Mac.
+* Using Google Japanese Input currently, in the future it will use Mozc.
