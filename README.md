@@ -12,6 +12,7 @@
 ## 1. HieroJIS
 
 * Youtube videos: 
+  * [general example](https://www.youtube.com/watch?v=qo5-_Y6cQY0) 
   * [how to install HieroJIS](https://www.youtube.com/watch?v=EAg2l6Wx7oA)
   * [some examples of Word-to-Word Conversion](https://www.youtube.com/watch?v=lFavuFI8HMU)
   * [some examples of English Word-to-Hieroglyphs Conversion]
