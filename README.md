@@ -10,7 +10,7 @@
  * It's really useful to convert texts made in old ASCII Coptic fonts into Coptic Unicode.
  * you can convert these ASCII fonts: "Coptic", "CopticLS", "CMCL", "NagHamadi", "avva_shenouda", "low"
  
-## 1. HieroJIS
+## 1. HieroJIS: Hieroglyphic Unicode input using Japanese Input System
 
 * Youtube videos: 
   * [general example](https://www.youtube.com/watch?v=qo5-_Y6cQY0) 
