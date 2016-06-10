@@ -13,7 +13,7 @@
 
 * Youtube videos: 
   * [how to install HieroJIS](https://www.youtube.com/watch?v=EAg2l6Wx7oA)
-  * [some examples of Word-to-Word Conversion]
+  * [some examples of Word-to-Word Conversion](https://www.youtube.com/watch?v=lFavuFI8HMU)
   * [some examples of English Word-to-Hieroglyphs Conversion]
   * [examples on Windows](https://www.youtube.com/watch?v=FOCwfL2f-TY)
 * description slides
