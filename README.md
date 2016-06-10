@@ -1,4 +1,4 @@
-# Toolkit for Coptic and Ancient Egyptian
+# :bowtie: Toolkit for Coptic and Ancient Egyptian :bowtie: 
 
 * Made by So Miyagawa
 * Tools made in ruby etc. for So's work on Coptic Digital Humanities
