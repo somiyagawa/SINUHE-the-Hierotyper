@@ -8,6 +8,7 @@
 * Also, I did a contribution to recode_coptic.pl 
  * (https://github.com/somiyagawa/converters_perl/blob/master/recode_coptic.pl)
  * It's really useful to convert texts made in old ASCII Coptic fonts into Coptic Unicode.
+ * you can convert these ASCII fonts: "Coptic", "CopticLS", "CMCL", "NagHamadi", "avva_shenouda", "low"
  
 ## 1. HieroJIS
 
