@@ -21,4 +21,4 @@
 * description slides
     * GitHub: (https://github.com/somiyagawa/toolkitForCopticAndAncientEgyptian/blob/master/An_intuitive_unicode_input_method_for_an%20(1).compressed.pdf)
 * It is better than [Keyman](http://keyman.com/) on Windows, [KMFL](http://linux.lsdev.sil.org/wiki/index.php/Installing_KMFL_on_Ubuntu) on Linux or [Ukulele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) on Mac.
-* Using Google Japanese Input currently, in the future it will use [Mozc](https://github.com/somiyagawa/mozc).
+* Using [Google Japanese Input](https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win) currently, in the future it will use [Mozc](https://github.com/somiyagawa/mozc).
