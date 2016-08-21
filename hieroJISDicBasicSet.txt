@@ -2200,8 +2200,8 @@ dHty	𓂧𓎛𓏏𓏭𓈓	名詞
 dHty	𓆓𓎛𓏏𓏭𓈓	名詞	
 DHwtt	𓅞𓏏𓏏𓎱	名詞	
 DHwtt	𓅜𓇋𓇋𓎳	名詞	
-DHwtt	𓅜𓇋𓇋𓏏𓎱	名詞	
-DHwty	𓅜𓏏𓏭𓀭	名詞	
+DHwtt	𓅝𓇋𓇋𓏏𓎱	名詞	
+DHwty	𓅝𓏏𓏭𓀭	名詞	
 DHwty	𓆓𓎛𓅱𓏏𓏭𓀭	名詞	
 DHwty	𓇋𓅆	名詞	
 DHwty	𓏏𓀭	名詞	
