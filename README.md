@@ -7,7 +7,7 @@ Developnment members are:
  * So Miyagawa (Göttingen/Kyoto)
  * David Chapman (Sydney)
 
-Executive Director
+Executive Coach
  * Camilla Di Biase-Dyson
 
 We would like to add you as a team member!
