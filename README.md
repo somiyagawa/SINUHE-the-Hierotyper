@@ -7,6 +7,9 @@ Team members are:
  * So Miyagawa (Göttingen/Kyoto)
  * David Chapman (Sydney)
 
+Executive Director
+ * Camilla Di Biase-Dyson
+
 
 # :star2: :dizzy:Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
 
