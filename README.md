@@ -2,7 +2,7 @@
 
 Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
 
-Developnment members are:
+Development members are:
  * Marwan Kilani (Oxford)
  * So Miyagawa (Göttingen/Kyoto)
  * David Chapman (Sydney)
