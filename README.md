@@ -1,4 +1,14 @@
-# :star2: :dizzy: SINUHE and Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
+# SINUHE (Sublime Input of Unicode for Hieroglyphic Egyptian) Project
+
+Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
+
+Team members are:
+ * Marwan Kilani (Oxford)
+ * So Miyagawa (Göttingen/Kyoto)
+ * David Chapman (Sydney)
+
+
+# :star2: :dizzy:Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
 
 ## 0. preamble
 
@@ -25,11 +35,4 @@
 * 
 
 
-## SINUHE (Sublime Input of Unicode for Hieroglyphic Egyptian)
-Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
-
-Team members are:
- * Marwan Kilani (Oxford)
- * So Miyagawa (Göttingen/Kyoto)
- * David Chapman (Sydney)
 
