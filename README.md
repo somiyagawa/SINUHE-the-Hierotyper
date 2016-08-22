@@ -1,4 +1,4 @@
-# :star2: :dizzy: Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
+# :star2: :dizzy: SINUHE and Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
 
 ## 0. preamble
 
@@ -22,3 +22,14 @@
     * GitHub: (https://github.com/somiyagawa/toolkitForCopticAndAncientEgyptian/blob/master/An_intuitive_unicode_input_method_for_an%20(1).compressed.pdf)
 * It is better than [Keyman](http://keyman.com/) on Windows, [KMFL](http://linux.lsdev.sil.org/wiki/index.php/Installing_KMFL_on_Ubuntu) on Linux or [Ukulele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) on Mac.
 * Using [Google Japanese Input](https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win) currently, in the future it will use [Mozc](https://github.com/somiyagawa/mozc).
+* 
+
+
+## SINUHE (Sublime Input of Unicode for Hieroglyphic Egyptian)
+Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
+
+Team members are:
+ * Marwan Kilani (Oxford)
+ * So Miyagawa (Göttingen/Kyoto)
+ * David Chapman (Sydney)
+
