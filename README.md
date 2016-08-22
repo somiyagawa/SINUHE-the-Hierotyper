@@ -2,7 +2,7 @@
 
 Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
 
-Team members are:
+Developnment members are:
  * Marwan Kilani (Oxford)
  * So Miyagawa (Göttingen/Kyoto)
  * David Chapman (Sydney)
@@ -10,6 +10,7 @@ Team members are:
 Executive Director
  * Camilla Di Biase-Dyson
 
+We would like to add you as a team member!
 
 # :star2: :dizzy:Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
 
