@@ -12,7 +12,7 @@ Executive Coach
 
 We would like to add you as a team member!
 
-# :star2: :dizzy:Toolkit for Coptic and Ancient Egyptian  :dizzy: :star2:
+Toolkit for Coptic and Ancient Egyptian
 
 ## 0. preamble
 
