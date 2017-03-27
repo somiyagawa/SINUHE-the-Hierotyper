@@ -1,0 +1,24 @@
+@font-face{ 
+	font-family: 'SINUHE'; /* お好きな名前にしましょう */
+	src: url('../fonts/SINUHE.eot'); /* IE9以上用 */
+	src: url('../fonts/SINUHE.eot?#iefix') format('embedded-opentype'), /* IE8以前用 */
+		url('../fonts/SINUHE.woff') format('woff'), /* モダンブラウザ用 */
+		url('../fonts/SINUHE.ttf') format('truetype'); /* iOS, Android用 */
+	font-weight: normal; /* 念の為指定しておきます */
+	font-style: normal;
+}
+.hiero {
+	font-family: 'SINUHE';
+	font-size: 40pt;
+}
+
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif",
+			'SINUHE';
+		vertical-align: baseline;
+	}
