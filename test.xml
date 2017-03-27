@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> ---
+Unicode ---
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+--- Datensatz-Titel ---
+</titleStmt>
+<publicationStmt>
+--- TEI-Datei-Herausgeber ---
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+--- Daten zum
+Textartefakt ---
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc> (optional)
+--- Projektspezifische Kategorien der
+Kodierung, z.B. Textsorten ---
+</encodingDesc>
+<profileDesc> (optional)
+--- Text-Artefakt-Kurzprofil ---
+</profileDesc>
+<revisionDesc> (optional)
+--- Bearbeitunggeschichte der TEIDatei
+---
+</revisionDesc>
+</teiHeader>
+<sourceDoc> --- Text-Transliteration,
+anordnungszentiert ---
+<sourceDoc>
+<text> --- Text-Transkription/Übersetzung,
+textstrukturzentriert ---
+</text>
+</TEI>

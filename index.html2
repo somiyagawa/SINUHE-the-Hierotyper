@@ -1,0 +1,251 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.netlicense)
+-->
+<html>
+	<head>
+		<title>SINUHE<title>
+		<meta charset="utf-8" >
+		<meta name="viewport" content="width=device-width, initial-scale=1" >
+		<!--[if lte IE 8]><script src="assetsjsiehtml5shiv.js"><script><![endif]-->
+		<link rel="stylesheet" href="assetscssmain.css" >
+		<!--[if lte IE 9]><link rel="stylesheet" href="assetscssie9.css" ><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assetscssie8.css" ><![endif]-->
+	<head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">SINUHE<a><h1>
+						<nav>
+							<a href="#menu">Menu<a>
+						<nav>
+					<header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu<h2>
+							<ul class="links">
+								<li><a href="index.html">Home<a><li>
+								<li><a href="generic.html">Installation<a><li>
+								<li><a href="elements.html">Elements<a><li>
+								<li><a href="#">Log In<a><li>
+								<li><a href="#">Sign Up<a><li>
+							<ul>
+							<a href="#" class="close">Close<a>
+						<div>
+					<nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-diamond"><span><font size="80">𓅭𓈖𓉔𓏏𓆮𓀀<font><div>
+							<h2>SINUHE the Hierotyper<h2>
+							<p>Sublime INput of Unicode for Hieroglyphic Egyptian<p>
+						<div>
+					<section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images1.png" alt="" ><a>
+									<div class="content">
+										<h2 class="major">What is SINUHE?<h2>
+										HieroJIS and Marwan’s font were combined and named <a href="http:somiyagawa.github.comSINUHE">SINUHE (Sublime INput of Unicode for Hieroglyphic Egyptian)
+									<div>
+								<div>
+							<section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="imagesoxford.png" alt="" ><a>
+									<a href="#" class="image"><img src="imagesgoettingen.png" alt="" ><a>
+									<a href="#" class="image"><img src="imageskyoto.png" alt="" ><a>
+									<a href="#" class="image"><img src="imagesmq.png" alt="" ><a>
+									<div class="content">
+										<h2 class="major">Who is making SINUHE?<h2>
+										<p>Marwan Kilani (font), Camilla Di Biase-Dyson (coaching), So Miyagawa (input system, webpage, advertisement), David Chapman (general) and you can freely join our team!<p>
+											<a href="#" class="special">Learn more<a>
+									<div>
+								<div>
+							<section>
+
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<video width="320" height="240" autoplay
+									 loop>
+  <source src="images2.mp4" type="videomp4">
+
+Your browser does not support the video tag.
+<video>
+									<div class="content">
+										<h2 class="major">Faster and Easier. Four ways of inputting.<h2>
+<ol>
+			  <li>
+													transliteration of a word including phonetic complemetns and the determinative:
+													snb = <n class="hiero">𓋴𓈖𓃀𓆃𓏛<n>
+
+
+												<li>
+												<li>
+													category like MAN, GOD, MAMMAL...: MAMMAL = <n class="hiero">𓃢,𓃥,𓃒,𓃼,𓃮,𓃶,𓃟...<n>
+												<li>
+												<li>
+													transliteration of phonograms:　nfr + f + r = <n class="hiero">𓄤𓆑𓂋<n>
+												<li>
+												<li>
+													Gardiner’s code: A1 + B1 + Z2 ＝　<n class="hiero">𓀀𓁐𓏥<n>
+												<li>
+											<ol>
+ 
+										<a href="#" class="special">Learn more<a>
+										
+									<div>
+								<div>
+							<section>
+
+			<section id="four" class="wrapper spotlight style4">
+								<div class="inner">
+									<a href="#" class="image"><img src="imagespic04.jpg" alt="" ><a>
+									<div class="content">
+										<h2 class="major">Works on Office, Notepad, everywhere.<h2>
+										<p>SINUHE working on Apple's Pages.
+										<p> 
+										<a href="#" class="special">Learn more<a>
+									<div>
+								<div>
+							<section>
+							<section id="five" class="wrapper spotlight style5">
+								<div class="inner">
+									<iframe width="560" height="315" src="https:www.youtube.comembedRmBgn9W5LtM" frameborder="0" allowfullscreen><iframe>
+									<div class="content">
+									<div>
+									<div class="content">
+										<h2 class="major">Implementation of Quadrat Writing<h2>
+										<p> You can change colours of texts, underline glyphs and search and replace them.
+										
+ 
+										<a href="#" class="special">Learn more<a>
+									<div>
+								<div>
+							<section>
+							<section id="six" class="wrapper spotlight style6">
+								<div class="inner"><a href="#" class="image">
+									<iframe width="560" height="315" src="https:www.youtube.comembedqokqLzGGD7Y" frameborder="0" allowfullscreen><iframe><a>
+									<div class="content">
+										<h2 class="major">Works on Office, Notepad, everywhere.<h2>
+										<p>Works very well on Notepad, Libre Office, Open Office, iWorks (Pages, Numbers, Keynote), Office 2011 for Mac, Office 2013, Sublime Text 3, Cot Editor, Notes (Mac), Goole Chrome (requires settings), Firefox<p>
+										
+ <p>
+										<a href="#" class="special">Learn more<a>
+									<div>
+								<div>
+							<section>
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">In Detail<h2>
+									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.<p>
+									<section class="features">
+										<article>
+											<a href="https:docs.google.comdocumentd1zs8YIA7iHRTEw9Kqd78AJAk1ZZasOvEArEGCtwzU1i0edit?usp=sharing" class="image"><img src="imagesguide.png" alt="" ><a>
+											<h3 class="major">How to install SINUHE<h3>
+											<p>This is a guide book how to install SINUHE<p>
+											<a href="https:docs.google.comdocumentd1zs8YIA7iHRTEw9Kqd78AJAk1ZZasOvEArEGCtwzU1i0edit?usp=sharing" class="special">Learn more<a>
+										<article>
+										<article>
+											<a href="https:github.comsomiyagawaSINUHE" class="image"><img src="imagesguide.jpg" alt="" ><a>
+											<h3 class="major">Join us and develop SINUHE on GitHub!<h3>
+											<p>You can join and develop SINUHE on GitHub. If you do not know what is GitHub, please take a look at the online course of GitHub at udacity below.<p>
+											<a href="https:github.comsomiyagawaSINUHE" class="special">Learn more<a>
+										<article>
+										<article>
+											<a href="https:classroom.udacity.comcoursesud775lessons3105028581concepts33282286200923#" class="image"><img src="imagesudacity.jpg" alt="" ><a>
+											<h3 class="major">Learn how to use GitHub!<h3>
+											<p>Udacity provides the free lessons of Git and GitHub.<p>
+											<a href="https:classroom.udacity.comcoursesud775lessons3105028581concepts33282286200923#" class="special">Learn more<a>
+										<article>
+										<article>
+											<a href="#" class="image"><img src="imagespic07.jpg" alt="" ><a>
+											<h3 class="major">Fusce consequat<h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.<p>
+											<a href="#" class="special">Learn more<a>
+										<article>
+									<section>
+									<ul class="actions">
+										<li><a href="#" class="button">Browse All<a><li>
+									<ul>
+								<div>
+							<section>
+
+					<section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch<h2>
+							<p>Please send us your opinions. And if you want to join the team, please feel free to contact us.<p>
+							<form method="post" action="#">
+								<div class="field">
+									<label for="name">Name<label>
+									<input type="text" name="name" id="name" >
+								<div>
+								<div class="field">
+									<label for="email">Email<label>
+									<input type="email" name="email" id="email" >
+								<div>
+								<div class="field">
+									<label for="message">Message<label>
+									<textarea name="message" id="message" rows="4"><textarea>
+								<div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" ><li>
+								<ul>
+							<form>
+							<ul class="contact">
+								<li class="fa-home">
+									Seminar for Egyptology and Coptic Studies<br >
+									
+
+Kulturwissenschaftliches Zentrum
+<br >
+Besucher-, Liefer- und Postadresse:
+Heinrich-Düker-Weg 14
+<br >
+									D-37073 Göttingen
+								<li>
+								<li class="fa-phone">(000) 000-0000<li>
+								<li class="fa-envelope"><a href="#">runa.uei@gmail.com<a><li>
+								<li class="fa-twitter"><a href="#">twitter.comRunaUei9<a><li>
+								<li class="fa-facebook"><a href="#">facebook.comrunauei<a><li>
+							<!--	<li class="fa-instagram"><a href="#">instagram.comuntitled-tld<a><li>-->
+							<ul>
+							<ul class="copyright">
+								<li>&copy; So Miyagawa & Marwan Kilani. All rights reserved.<li><li>Design: <a href="http:html5up.net">HTML5 UP<a><li>
+							<ul>
+						<div>
+					<section>
+
+			<div>
+
+		<!-- Scripts -->
+			<script src="assetsjsskel.min.js"><script>
+			<script src="assetsjsjquery.min.js"><script>
+			<script src="assetsjsjquery.scrollex.min.js"><script>
+			<script src="assetsjsutil.js"><script>
+			<!--[if lte IE 8]><script src="assetsjsierespond.min.js"><script><![endif]-->
+			<script src="assetsjsmain.js"><script>
+
+	<body>
+<html>
