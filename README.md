@@ -24,6 +24,12 @@ Toolkit for Coptic and Ancient Egyptian
  * It's really useful to convert texts made in old ASCII Coptic fonts into Coptic Unicode.
  * you can convert these ASCII fonts: "Coptic", "CopticLS", "CMCL", "NagHamadi", "avva_shenouda", "low"
  
+ # 3 How to use it on WORD,
+ 
+ * Please select all the letters, open the font window, and make all the ligature valid. 
+ ![how to](photo.png "how to")
+
+ 
 # 3 HieroJIS: Hieroglyphic Unicode input using Japanese Input System
 
 * Youtube videos: 
