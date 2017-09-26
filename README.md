@@ -44,5 +44,12 @@ Toolkit for Coptic and Ancient Egyptian
 * Using [Google Japanese Input](https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win) currently, in the future it will use [Mozc](https://github.com/somiyagawa/mozc).
 * 
 
+# 4 EgyptianHiero font
+
+* Ligature function was made by Marwan Kilani
+* Based on Mark-Jan Nederhof's New Gardiner font. 
+* He permits us to use it, saying "The font is fully free for all private, academic and non-commercial use, including modification and redistribution. Acknowledgements where appropriate will of course be appreciated. "(https://mjn.host.cs.st-andrews.ac.uk/egyptian/fonts/newgardiner.html)
+
+
 
 
