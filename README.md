@@ -2,6 +2,8 @@
 
 Now we are integrating HieroJIS with Marwan Kilani's awesome font, which allows quadrat writing.
 
+Website: http://somiyagawa.github.io/SINUHE-the-Hierotyper/
+
 Development members are:
  * Marwan Kilani (Oxford)
  * So Miyagawa (Göttingen/Kyoto)
