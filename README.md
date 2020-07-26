@@ -15,7 +15,9 @@ Executive Coach
 We would like to add you as a team member!
 
 Documentation: https://docs.google.com/document/d/1zs8YIA7iHRTEw9Kqd78AJAk1ZZasOvEArEGCtwzU1i0/edit?fbclid=IwAR25jVUnnEQE34jruRe2T8P1xSYhO1lsV6y72VZkZLjr-nzaAhbZZXP9BC4
- 
+
+First, please install [Google Japanese Input](https://www.google.co.jp/ime/) and add a dictionary file included in this project folder to it. 
+
 # 2 HieroJIS: Hieroglyphic Unicode input using Japanese Input System
 
 * Youtube videos: 
