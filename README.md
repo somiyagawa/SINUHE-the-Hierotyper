@@ -52,6 +52,7 @@ First, please install [Google Japanese Input](https://www.google.co.jp/ime/) and
  
  
 
+MIT License
 
 
 
